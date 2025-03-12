@@ -155,6 +155,9 @@ Se ha desarrollado un prototipo funcional utilizando Laravel que demuestra cómo
 
 El proyecto está dividido en dos repositorios principales:
 
+1. **API de Rendimiento Académico**
+   - [https://github.com/AlexanderAzocar/-Detecting-patterns-of-student-well-being-and-performance/tree/main](https://github.com/AlexanderAzocar/-Detecting-patterns-of-student-well-being-and-performance/tree/main)
+   - Implementación completa de la API y modelos finales
 
 2. **Interfaz de Asesoramiento (Caso de Uso)**
    - [https://github.com/d4na3l/student-performance-interface](https://github.com/d4na3l/student-performance-interface)
