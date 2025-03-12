@@ -14,7 +14,7 @@
 
 ## Descripcion
 
-Descripción General El Identificador de Patrones de Rendimiento y Bienestar Estudiantil es una innovadora plataforma de análisis impulsada por tecnologías de Machine Learning, diseñada para apoyar a las instituciones educativas en la identificación y comprensión de los factores clave que impactan el rendimiento académico y el bienestar psicológico de los estudiantes.
+El Identificador de Patrones de Rendimiento y Bienestar Estudiantil es una innovadora plataforma de análisis impulsada por tecnologías de Machine Learning, diseñada para apoyar a las instituciones educativas en la identificación y comprensión de los factores clave que impactan el rendimiento académico y el bienestar psicológico de los estudiantes.
 
 ## Objetivos del Proyecto
 
